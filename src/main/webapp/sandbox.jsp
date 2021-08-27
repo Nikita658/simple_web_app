@@ -5,6 +5,6 @@
 </head>
 <body>
     <h1>Hello Servlet</h1>
-    <p>This is Java EE Sandbox! Hi, <%= request.getRemoteAddr() %></p>
+    <p>This is Java EE Sandbox(Test page)! Hi, <%= request.getRemoteAddr() %></p>
 </body>
 </html>

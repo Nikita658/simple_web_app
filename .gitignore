@@ -3,6 +3,7 @@
 /workspace.xml
 .idea/
 target/
+tomcat.8080/
 out/
 *.iml
 *.iws
