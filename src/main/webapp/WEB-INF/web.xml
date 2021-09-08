@@ -7,7 +7,7 @@
 
     <servlet>
         <servlet-name>mainServlet</servlet-name>
-        <servlet-class>ua.mamedov.servlet.MainServlet</servlet-class>
+        <servlet-class>ua.bykov.servlet.MainServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>

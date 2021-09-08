@@ -1,6 +1,6 @@
-package ua.mamedov.servlet;
+package ua.bykov.servlet;
 
-import ua.mamedov.utils.UserInfoContainer;
+import ua.bykov.utils.UserInfoContainer;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;

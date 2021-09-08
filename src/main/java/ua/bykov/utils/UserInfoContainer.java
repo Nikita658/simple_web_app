@@ -1,4 +1,4 @@
-package ua.mamedov.utils;
+package ua.bykov.utils;
 
 import lombok.Getter;
 import lombok.Setter;
